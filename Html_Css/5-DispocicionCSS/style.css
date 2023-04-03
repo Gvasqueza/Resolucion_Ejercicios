@@ -1,0 +1,8 @@
+.Galeria img{
+    width: 300px;
+}
+
+.Galeria{
+    display: flex;
+    flex-wrap: wrap;
+}
